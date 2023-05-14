@@ -2,7 +2,7 @@
 ------
 *An online viewer and analysis tool for EnergyPlus Weather (EPW) files.*
 
-EPW files can be downloaded from [epwmap](http://mostapharoudsari.github.io/epwmap) or the [EnergyPlus weather](https://energyplus.net/weather) website.
+EPW files can be downloaded from the [EnergyPlus weather](https://energyplus.net/weather) website.
 
 ## How to Interpret the Visualizations
 See the [**Wiki**](https://github.com/mdahlhausen/epwvis/wiki) tab for more details on how to interpret weather data for environmental design and building energy modeling.
